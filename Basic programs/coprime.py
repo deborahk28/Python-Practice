@@ -12,3 +12,7 @@ if are_coprime(num1, num2):
     print(num1, "and", num2, "are coprime")
 else:
     print(num1, "and", num2, "are not coprime")
+
+#explaination : 15 and 28 are co-prime numbers
+#15 factors: 1,3,5,15
+#28 fcators: 1,2,4,7,14,28 (here both numbers have 1 as their common factor so thy are co-prime number)
